@@ -13,7 +13,7 @@ This project explores the integration of interpretability techniques in artifici
 **Course:** ARI3205 - Interpretable AI  
 **Institution:** [University of Malta](https://www.um.edu.mt/)   
 **Semester:** Year 3, Semester 1  
-**Instructor:** [Dr Konstantinos Makantasis](https://www.um.edu.mt/profile/konstantinosmakantasis)  
+**Supervisor:** [Dr Konstantinos Makantasis](https://www.um.edu.mt/profile/konstantinosmakantasis)  
 **Team Members:**
 - David Farrugia - [DavidF-22](https://github.com/DavidF-22)
 - David Lee Parnis - [DavidLeeP](https://github.com/DavidLeeP)
