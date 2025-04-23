@@ -54,12 +54,7 @@ To replicate this project locally, make sure you have [Git](https://git-scm.com/
     source .venv/bin/activate   # On Windows, use `.venv\Scripts\activate`
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run Any Chosen Notebook
+3. Run Any Chosen Notebook
 
 > _**Note:** Steps 2 and 3 can be skipped if you use [GoogleColab](https://colab.research.google.com/)_
 
