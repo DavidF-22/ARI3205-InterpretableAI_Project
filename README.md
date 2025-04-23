@@ -1,7 +1,5 @@
 # ARI3205 Interpretable AI Project
 
-<h2 style="border-bottom: none; margin-bottom: 0;">Table of Contents</h2>
-
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
     - [Project Tree](#project-tree)
