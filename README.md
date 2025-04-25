@@ -56,7 +56,7 @@ To replicate this project locally, make sure you have [Git](https://git-scm.com/
 
 3. Run Any Chosen Notebook
 
-> _**Note:** Steps 2 and 3 can be skipped if you use [GoogleColab](https://colab.research.google.com/)_
+> _**Note:** Step 2 can be skipped if you use [GoogleColab](https://colab.research.google.com/)_
 
 ## Methodology
 The project employs various interpretability techniques, including:​
